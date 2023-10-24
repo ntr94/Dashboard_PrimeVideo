@@ -11,6 +11,6 @@ Este proyecto consiste en obtener un Panel de Control con los datos de streaming
 
 <img src="Prime video data.PNG" style="display: block; margin: auto;">
 
-[Archivo Excel Original](https://github.com/ntr94/Dashboard_Produccion/blob/main/amazon_prime_titles.csv)
+[Archivo Excel Original](https://github.com/ntr94/Dashboard_PrimeVideo/blob/main/amazon_prime_titles.csv)
 
 <img src="Dashboard_PrimeVideo.PNG" style="display: block; margin: auto;">
