@@ -1,3 +1,5 @@
+<img src="Prime video logo.png" style="display: block; margin: auto;">
+
 # Dashboard_PrimeVideo
 Panel de Control sobre Prime Video
 
