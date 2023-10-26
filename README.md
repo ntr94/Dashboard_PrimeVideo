@@ -18,3 +18,8 @@ Este proyecto consiste en obtener un Panel de Control con los datos de streaming
 ## Panel de control
 
 <img src="Dashboard_PrimeVideo.PNG" style="display: block; margin: auto;">
+
+## Dashboard relacionados
+
+[Netflix](https://github.com/ntr94/Dashboard_Netflix)
+
