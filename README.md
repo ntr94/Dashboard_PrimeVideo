@@ -23,3 +23,4 @@ Este proyecto consiste en obtener un Panel de Control con los datos de streaming
 
 [Netflix](https://github.com/ntr94/Dashboard_Netflix)
 
+[Disney Plus](https://github.com/ntr94/Dashboard_Disney_plus)
